@@ -1,2 +1,2 @@
-FROM tanisha30/php:v1
+FROM tanisha30/php:latest
 COPY index.html /var/www/html
